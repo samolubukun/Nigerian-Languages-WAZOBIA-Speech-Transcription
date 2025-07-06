@@ -81,6 +81,11 @@ This Gradio application provides a user-friendly interface for transcribing spok
 
 ---
 
+## Screenshot
+
+![png (4)](https://github.com/user-attachments/assets/58e9ebea-d801-4b7d-812c-a41d6e73d0c0)
+
+
 ## 💡 Notes
 
 * **First-time Model Loading:** The first time you select a language, the corresponding model will be downloaded. This might take a few minutes depending on your internet connection. Subsequent uses of the same language will be faster as the model will be cached.
