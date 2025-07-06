@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+librosa
+numpy
+accelerate
