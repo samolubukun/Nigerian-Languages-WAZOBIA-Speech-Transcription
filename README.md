@@ -98,9 +98,9 @@ This Gradio application provides a user-friendly interface for transcribing spok
 
 The application utilizes different models specialized for each language:
 
-* **Yoruba:** `DereAbdulhameed/Whisper-Yoruba` (Whisper model)
+* **Yoruba:** `DereAbdulhameed/Whisper-Yoruba` (Fine-tuned Whisper model)
 * **Hausa:** `Baghdad99/saad-speech-recognition-hausa-audio-to-text` (Fine-tuned Whisper model)
-* **Igbo:** `AstralZander/igbo_ASR` (Wav2Vec2-XLS-R model)
+* **Igbo:** `AstralZander/igbo_ASR` (Fine-tuned Wav2Vec2-XLS-R model)
 
 ---
 
