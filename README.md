@@ -81,7 +81,7 @@ This Gradio application provides a user-friendly interface for transcribing spok
 
 ---
 
-## Screenshot
+## 📷 Screenshot
 
 ![png (4)](https://github.com/user-attachments/assets/58e9ebea-d801-4b7d-812c-a41d6e73d0c0)
 
