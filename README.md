@@ -27,7 +27,7 @@ This Gradio application provides a user-friendly interface for transcribing spok
 1.  **Clone the repository (or save `app.py` and `requirements.txt`):**
 
     ```bash
-    git clone [https://github.com/samolubukun/Nigerian-Languages-WAZOBIA-Speech-Transcription.git](https://github.com/samolubukun/Nigerian-Languages-WAZOBIA-Speech-Transcription.git)
+    git clone https://github.com/samolubukun/Nigerian-Languages-WAZOBIA-Speech-Transcription.git
     cd Nigerian-Languages-WAZOBIA-Speech-Transcription
     ```
 
